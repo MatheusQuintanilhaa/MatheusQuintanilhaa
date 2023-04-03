@@ -50,8 +50,12 @@
    <img align="center" alt="Matheus-nodejs" height="30" width="40" title="Node.js"  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     
   <img align="center" alt="Matheus-jest" height="30" width="40" title="jest"  src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  
+  <img align="center" alt="Matheus-tailwind" height="30" width="40" title="tailwind"  src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
 
   <img align="center" alt="Matheus-github" height="30" width="40" title="github"  src="https://github.com/felipetfernandes/felipetfernandes/blob/main/github-original.svg">
+  
+
 
 </div>
 
