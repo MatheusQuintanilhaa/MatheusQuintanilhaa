@@ -52,6 +52,9 @@
   <img align="center" alt="Matheus-jest" height="30" width="40" title="jest"  src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   
   <img align="center" alt="Matheus-tailwind" height="30" width="40" title="tailwind"  src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  
+    <img align="center" alt="Matheus-trello" height="30" width="40" title="trello"  src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+
 
   <img align="center" alt="Matheus-github" height="30" width="40" title="github"  src="https://github.com/felipetfernandes/felipetfernandes/blob/main/github-original.svg">
   
