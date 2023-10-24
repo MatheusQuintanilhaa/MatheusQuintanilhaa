@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at [Trybe](https://github.com/betrybe)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, React, NextJS13, TailwindCSS, SASS,Prisma,SQL, Node.JS**
 
 - ⚡ Fun fact **Oneye 😜**
 
