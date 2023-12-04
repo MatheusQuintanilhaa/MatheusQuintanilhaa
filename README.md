@@ -1,10 +1,9 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusQuintanilhaa/e83743427031a69355cf03f472b6d361/raw/1c498fab040ccc00f3b53d09d3eae119e77e4d73/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Quintanilha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusQuintanilhaa&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer student
 
-- 🔭 I’m currently studying at [Trybe](https://github.com/betrybe)
+- 🔭 formed by Trybe (https://github.com/betrybe)
 
 - 💬 Ask me about **JavaScript, React, NextJS13, TailwindCSS, SASS,Prisma,SQL, Node.JS**
 
