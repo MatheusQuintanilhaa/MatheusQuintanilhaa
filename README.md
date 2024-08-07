@@ -3,7 +3,7 @@
 
 - 🔥 Front end Web Developer student
 
-- 💬 Ask me about **JavaScript, React, NextJS13, TailwindCSS, SASS, Prisma, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, React, NextJS, TailwindCSS, SASS, Prisma, SQL, Node.JS**
 
 - ⚡ Fun fact **Oneye 😜**
 
