@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Quintanilha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusQuintanilhaa&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 FullStack Web Developer student
+- 🔥 Front-End Developer
 
-- 💬 Ask me about **JavaScript, React, NextJS, TailwindCSS, SASS, Prisma, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, TypeScript, React, NextJS, TailwindCSS, NodeJS**
 
 - ⚡ Fun fact **Oneye 😜**
 
@@ -23,10 +23,7 @@
   <img align="center" alt="Matheus-React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Redux" height="30" width="40" title="Redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Matheus-Docker" height="30" width="40" title="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Matheus-Git" height="30" width="40" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Matheus-SQL" height="30" width="40" title="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Matheus-nodejs" height="30" width="40" title="Node.js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Matheus-jest" height="30" width="40" title="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Matheus-tailwind" height="30" width="40" title="tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
